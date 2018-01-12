@@ -168,11 +168,11 @@
     {
         "10th kingdom":
         {
-            "text" : "Discworld v0.6",
+            "text" : "Discworld v0.7",
             "posX" : 5,
             "posY" : 5,
             "color" : -1,
-            "hoverText" : "On the Disc the gods dealt severely with atheists.",
+            "hoverText" : "If I'm not back in five minutes, just wait longer.",
             "alignment" : "top_left"
         },
 
