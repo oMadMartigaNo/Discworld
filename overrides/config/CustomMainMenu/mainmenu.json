@@ -168,11 +168,11 @@
     {
         "10th kingdom":
         {
-            "text" : "Discworld v0.7",
+            "text" : "Discworld v0.8",
             "posX" : 5,
             "posY" : 5,
             "color" : -1,
-            "hoverText" : "If I'm not back in five minutes, just wait longer.",
+            "hoverText" : "This one's for you Eric, Grattis Eric... ;)",
             "alignment" : "top_left"
         },
 
