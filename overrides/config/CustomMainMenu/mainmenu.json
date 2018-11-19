@@ -116,7 +116,7 @@
             imageWidth : 100,
             imageHeight : 50,
             "alignment" : "top_center",
-            "hoverText" : "It's always to soon to quit!",
+            "hoverText" : "Goonies never say die.",
             "action" : 
             {
                 "type" : "quit"
@@ -168,11 +168,11 @@
     {
         "10th kingdom":
         {
-            "text" : "Discworld v0.8",
+            "text" : "Discworld v1.7.2",
             "posX" : 5,
             "posY" : 5,
             "color" : -1,
-            "hoverText" : "This one's for you Eric, Grattis Eric... ;)",
+            "hoverText" : "Bring out your dead! - Monty Python and the Holy Grail",
             "alignment" : "top_left"
         },
 
