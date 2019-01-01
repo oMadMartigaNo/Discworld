@@ -168,11 +168,11 @@
     {
         "10th kingdom":
         {
-            "text" : "Discworld v1.7.2",
+            "text" : "Discworld v1.7.3",
             "posX" : 5,
             "posY" : 5,
             "color" : -1,
-            "hoverText" : "Bring out your dead! - Monty Python and the Holy Grail",
+            "hoverText" : "I am serious, and don't call me Shirley.",
             "alignment" : "top_left"
         },
 
