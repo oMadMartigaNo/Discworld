@@ -10,8 +10,8 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Discworld 1.7.3",
-  "version": "1.7.3",
+  "name": "Discworld 1.7.4",
+  "version": "1.7.4",
   "author": "madmartigano",
   "files": [
     {
@@ -41,7 +41,7 @@
     },
     {
       "projectID": 240950,
-      "fileID": 2638502,
+      "fileID": 2660166,
       "required": true
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "projectID": 245453,
-      "fileID": 2634425,
+      "fileID": 2654968,
       "required": true
     },
     {
@@ -91,12 +91,12 @@
     },
     {
       "projectID": 224641,
-      "fileID": 2641797,
+      "fileID": 2660163,
       "required": true
     },
     {
       "projectID": 74072,
-      "fileID": 2630883,
+      "fileID": 2657445,
       "required": true
     },
     {
@@ -107,11 +107,6 @@
     {
       "projectID": 228525,
       "fileID": 2643719,
-      "required": true
-    },
-    {
-      "projectID": 233140,
-      "fileID": 2622217,
       "required": true
     },
     {
@@ -136,7 +131,7 @@
     },
     {
       "projectID": 245480,
-      "fileID": 2634513,
+      "fileID": 2654963,
       "required": true
     },
     {
@@ -156,7 +151,7 @@
     },
     {
       "projectID": 282001,
-      "fileID": 2650582,
+      "fileID": 2658920,
       "required": true
     },
     {
@@ -176,7 +171,7 @@
     },
     {
       "projectID": 250763,
-      "fileID": 2638503,
+      "fileID": 2660164,
       "required": true
     },
     {
@@ -256,12 +251,12 @@
     },
     {
       "projectID": 226254,
-      "fileID": 2654918,
+      "fileID": 2658309,
       "required": true
     },
     {
       "projectID": 233105,
-      "fileID": 2638496,
+      "fileID": 2660396,
       "required": true
     },
     {
@@ -281,7 +276,7 @@
     },
     {
       "projectID": 61811,
-      "fileID": 2636565,
+      "fileID": 2660461,
       "required": true
     },
     {
@@ -326,7 +321,7 @@
     },
     {
       "projectID": 242638,
-      "fileID": 2650647,
+      "fileID": 2659449,
       "required": true
     },
     {
@@ -366,7 +361,7 @@
     },
     {
       "projectID": 236541,
-      "fileID": 2644729,
+      "fileID": 2660451,
       "required": true
     },
     {
