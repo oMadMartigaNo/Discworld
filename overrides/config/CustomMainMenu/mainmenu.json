@@ -168,11 +168,11 @@
     {
         "10th kingdom":
         {
-            "text" : "Discworld v1.7.3",
+            "text" : "Discworld v1.7.5",
             "posX" : 5,
             "posY" : 5,
             "color" : -1,
-            "hoverText" : "I am serious, and don't call me Shirley.",
+            "hoverText" : "Marvin was humming ironically because he hated humans so much.",
             "alignment" : "top_left"
         },
 
