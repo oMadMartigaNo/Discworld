@@ -168,11 +168,11 @@
     {
         "10th kingdom":
         {
-            "text" : "Discworld v1.7.5",
+            "text" : "Discworld v1.7.6",
             "posX" : 5,
             "posY" : 5,
             "color" : -1,
-            "hoverText" : "Marvin was humming ironically because he hated humans so much.",
+            "hoverText" : "Call that a knife? This is a knife.",
             "alignment" : "top_left"
         },
 

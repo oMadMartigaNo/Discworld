@@ -47,11 +47,11 @@ entityShadows:true
 mainHand:right
 attackIndicator:1
 showSubtitles:false
-realmsNotifications:false
+realmsNotifications:true
 enableWeakAttacks:false
 autoJump:false
 narrator:0
-tutorialStep:none
+tutorialStep:punch_tree
 key_key.attack:-100
 key_key.use:-99
 key_key.forward:17
@@ -145,8 +145,8 @@ key_key.journeymap.fullscreen.north:200
 key_key.journeymap.fullscreen.south:208
 key_key.journeymap.fullscreen.east:205
 key_key.journeymap.fullscreen.west:203
-soundCategory_master:0.60264903
-soundCategory_music:0.20422535
+soundCategory_master:1.0
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
