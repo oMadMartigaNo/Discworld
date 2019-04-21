@@ -168,11 +168,11 @@
     {
         "10th kingdom":
         {
-            "text" : "Discworld v1.7.6",
+            "text" : "Discworld v1.7.7",
             "posX" : 5,
             "posY" : 5,
             "color" : -1,
-            "hoverText" : "Call that a knife? This is a knife.",
+            "hoverText" : "THAT was my Virgin Alarm. It's programmed to go off before you do!",
             "alignment" : "top_left"
         },
 
