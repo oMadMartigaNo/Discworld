@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Discworld",
-  "version": "1.7.7",
+  "version": "1.7.8",
   "author": "madmartigano",
   "files": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "projectID": 282001,
-      "fileID": 2699867,
+      "fileID": 2703036,
       "required": true
     },
     {
@@ -71,7 +71,7 @@
     },
     {
       "projectID": 61811,
-      "fileID": 2701509,
+      "fileID": 2702041,
       "required": true
     },
     {
@@ -91,7 +91,7 @@
     },
     {
       "projectID": 224712,
-      "fileID": 2666930,
+      "fileID": 2705850,
       "required": true
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "projectID": 250763,
-      "fileID": 2660164,
+      "fileID": 2705813,
       "required": true
     },
     {
@@ -136,7 +136,7 @@
     },
     {
       "projectID": 242195,
-      "fileID": 2664235,
+      "fileID": 2694889,
       "required": true
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "projectID": 233105,
-      "fileID": 2660396,
+      "fileID": 2708318,
       "required": true
     },
     {
@@ -241,17 +241,17 @@
     },
     {
       "projectID": 245586,
-      "fileID": 2701788,
-      "required": true
-    },
-    {
-      "projectID": 223150,
-      "fileID": 2689602,
+      "fileID": 2702565,
       "required": true
     },
     {
       "projectID": 224535,
       "fileID": 2443253,
+      "required": true
+    },
+    {
+      "projectID": 223150,
+      "fileID": 2689602,
       "required": true
     },
     {
@@ -316,7 +316,7 @@
     },
     {
       "projectID": 226254,
-      "fileID": 2701794,
+      "fileID": 2707577,
       "required": true
     },
     {
@@ -326,17 +326,12 @@
     },
     {
       "projectID": 240950,
-      "fileID": 2660166,
+      "fileID": 2707390,
       "required": true
     },
     {
       "projectID": 254818,
-      "fileID": 2465919,
-      "required": true
-    },
-    {
-      "projectID": 221857,
-      "fileID": 2696248,
+      "fileID": 2709670,
       "required": true
     },
     {
@@ -345,8 +340,13 @@
       "required": true
     },
     {
+      "projectID": 221857,
+      "fileID": 2696248,
+      "required": true
+    },
+    {
       "projectID": 236541,
-      "fileID": 2696000,
+      "fileID": 2703418,
       "required": true
     },
     {
@@ -365,13 +365,13 @@
       "required": true
     },
     {
-      "projectID": 224641,
-      "fileID": 2672513,
+      "projectID": 253449,
+      "fileID": 2568751,
       "required": true
     },
     {
-      "projectID": 253449,
-      "fileID": 2568751,
+      "projectID": 224641,
+      "fileID": 2707388,
       "required": true
     },
     {
