@@ -25,7 +25,7 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
-fullscreen:false
+fullscreen:true
 enableVsync:false
 useVbo:true
 hideServerAddress:false
@@ -103,6 +103,7 @@ key_key.cofh.multimode:47
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
+key_key.jei.toggleEditMode:0
 key_key.jei.showRecipe:19
 key_key.jei.showUses:22
 key_key.jei.recipeBack:14
@@ -132,15 +133,16 @@ key_key.immersiveengineering.chemthrowerSwitch:0
 key_Toggle Jetpack:45
 key_Open Rocket GUI:46
 key_Toggle RCS:19
-key_Rotate Rocket Right:32
-key_Rotate Rocket Left:30
-key_Move Rocket Up:44
-key_Move Rocket Down:45
+key_Rotate Vehicle Right:32
+key_Rotate Vehicle Left:30
+key_Move Vehicle Up:44
+key_Move Vehicle Down:45
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
 key_key.journeymap.minimap_type:26
 key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:48
+key_key.journeymap.toggle_waypoints:44
 key_key.journeymap.fullscreen_create_waypoint:48
 key_key.journeymap.fullscreen_chat_position:46
 key_key.journeymap.map_toggle_alt:36
